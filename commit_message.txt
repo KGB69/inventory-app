@@ -1,1 +1,1 @@
-Initial commit 
+Add database setup with Flask-SQLAlchemy and InventoryItem model 
