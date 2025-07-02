@@ -1,1 +1,1 @@
-Add database setup with Flask-SQLAlchemy and InventoryItem model 
+feat: Replace old app with new React application
