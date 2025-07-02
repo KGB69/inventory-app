@@ -1,1 +1,1 @@
-feat: Replace old app with new React application
+chore: Remove unnecessary requirements.txt
