@@ -1,6 +1,5 @@
 services:
-  - type: web
+  - type: static_site
     name: shop-ledger-pro
-    env: static
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
